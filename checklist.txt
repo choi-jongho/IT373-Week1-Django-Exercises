@@ -1,0 +1,9 @@
+Python Version: Python 3.13.7
+venv active: yes, (.venv) PS C:\Users\Acer\desktop\django\IT373-Week1-Django-				Exercises> 
+Django Version: 5.2.6
+runserver working: yes, Django version 5.2.6, using settings 'config.settings'
+			Starting development server at http://127.0.0.1:8000/
+			Quit the server with CTRL-BREAK.
+Git remote set: origin  https://github.com/choi-jongho/IT373-Week1-Django-			Exercises.git (fetch)
+		origin  https://github.com/choi-jongho/IT373-Week1-Django-			Exercises.git (push)
+
